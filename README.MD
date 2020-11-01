@@ -1,3 +1,5 @@
+# DISCONTINUED
+
 # Wersja ***1.0.1*** BETA
 	- Naprawiono dodawanie nowych użytkowników do listy wyboru w nowym zadaniu
 	- Naprawiono odznaczanie checkboxów po dodaniu zadania
